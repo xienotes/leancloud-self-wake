@@ -18,3 +18,6 @@
 # ADDED
 
 图文见blog：[一行命令解决 LeanCloud 流控问题](https://www.aimtao.net/slef-wake-leancloud/)
+
+# Action
+Enable the fored github flow action by change anything in the files. 
